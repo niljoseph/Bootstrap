@@ -1,0 +1,120 @@
+.spacer{
+	height: 150px;
+}
+.spacer-1{
+	height: 300px;
+}
+.spacer-2{
+	height: 200px;
+}
+.spacer-3{
+	height: 100px;
+}
+.spacer-4{
+	height: 250px;
+}
+
+.color{
+	background-color: #6c757d;
+}
+.color-1{
+	background-color: #ff99ff ;
+
+}
+.color-2{
+	background-color: #007bff;
+}
+.color-3{
+	background-color: #28a745;
+}
+.width{
+	width: 80%;
+}
+.width-1{
+	width: 85%;
+}
+.width-2{
+	width: 90%;
+}
+.width-3{
+	width: 95%;
+
+}
+.width-4{
+	width: 100%;
+}
+.width-5{
+	width: 35%;
+}
+.height{
+	height: 80px;
+}
+.height-1{
+	height: 85px;
+}
+.height-2{
+	height: 90px;
+}
+.height-3{
+	height: 480px;
+}
+.height-4{
+	height: 390px;
+}
+.height-5{
+	height: 300px;
+}
+.height-6{
+	height: 500px;
+}
+.nav-2{
+	opacity: 0px;	
+	width: 50%;
+	text-align: right!important;
+}
+.carousel-control-prev{
+	background-color: transparent;
+	border: none;
+
+}
+.carousel-control-next{
+	background-color: transparent;
+	border: none;
+}
+.monospace{
+	font-family: monospace;
+	font-size: 18px;
+}
+.pd{
+	padding-left: 38%;
+}
+.pd-1{
+	padding-left: 50%;
+}
+.pd-2{
+	padding-right: 25%;
+}
+.font{
+	font-size: 30px;
+}
+.font-1{
+	font-size:20px;
+}
+.black{
+	color: black;
+}
+.input{
+	width: 20%;
+	height: 25px;
+/*	border-radius: 10px;*/
+	padding-left: 1px;
+}
+.alignment{
+	text-align: right;
+}
+.alignment-1{
+	text-align: center;
+}
+.alignment-2{
+	text-align: ;
+}
