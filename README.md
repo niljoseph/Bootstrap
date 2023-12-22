@@ -1,4 +1,3 @@
-# Bootstrap
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -108,24 +107,25 @@
   </div>  
 </form>
     </div>
-    <div class="row align-items-center">
+   <!--  <div class="row align-items-center">
       <div class="col-lg-6 text-center text-lg-start ">
         <br>
         <br>
         <br>
         <br>
         <p class="alignment-1 pd-2">&copy; 2023 Group 6. All rights reserved.</p>
-      </div>
+      </div> -->
+      <div class="col align-items-center pd-3 pd-4">
       <div class="col-lg-6 text-center text-lg-end  ">
         <ul class="list-inline mb-0">
           <li class="list-inline-item me-3">
             <a href="https://www.facebook.com/" class="text-light">
-              <img src="D:/ICT/Sample 2/Resource/facebook.png" class="rounded" alt="Facebook" height="35">
+              <img src="D:/ICT/Sample 2/Resource/facebook-1.webp" class="rounded" alt="Facebook" height="35">
             </a>
           </li>
           <li class="list-inline-item me-3">
             <a href="https://twitter.com/" class="text-light">
-              <img src="D:/ICT/Sample 2/Resource/twitter.png" class="rounded" alt="Twitter" height="35">
+              <img src="D:/ICT/Sample 2/Resource/x.webp" class="rounded" alt="Twitter" height="35">
             </a>
           </li>
           <li class="list-inline-item">
@@ -135,6 +135,7 @@
           </li>
           <!-- Add more app links with logos as needed -->
         </ul>
+      </div>
       </div>
     </div>
   </div>
